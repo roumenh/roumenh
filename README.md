@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Roman Hruška - @roumenh
+- 👀 I’m interested in Robotic Process Automation in UiPath, Python, Web Design and currently Kotlin and Android development
+- 🌱 I’m currently learning Kotlin and Android Studio
+- 💞️ I’m looking to collaborate on fun projects!
+- 📫 https://www.linkedin.com/in/iamromanhruska/
