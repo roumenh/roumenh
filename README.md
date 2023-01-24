@@ -4,7 +4,8 @@
 - 📫 https://www.linkedin.com/in/iamromanhruska/
 
 # Hello everyone, welcome to my github!
-There are currently three projects that are worth your attention in case you are wondering what is my current level of Android/Kotlin:
+There are currently three projects that are worth your attention in case you are wondering what is my current level of Android/Kotlin.
+Meanwhile I am learning and learning and learning....
 
 ## Weather Check 2000
 https://github.com/roumenh/WeatherCheck2000
