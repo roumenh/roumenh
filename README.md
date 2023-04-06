@@ -9,6 +9,7 @@ Meanwhile I am learning and learning and learning....
 
 ## Alehopa
 Project in the beginnings. My main aim is to become fluent in Clean Architecture principles, MVVM and to learn a lot of new stuff whilst working on this project.
+
 The app should serve as a simple social connector for groups (crews) of people that tend to meet at a particular place (eg. at pub, in the park). Every day the user is prompted for his/hers attendance (going, tentative or no). Then other group members will see if someone has time to go out and the crew can finally gather. This app will use no user accounts.
 
 ## Weather Check 2000
