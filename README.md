@@ -23,4 +23,4 @@ Small app connected to Google Books API, that can search by author for books wri
 
 ## Mamka Appka
 https://github.com/roumenh/MamkaAppka
-I am currently working on this pet project. It is not perfect. This is app for my mum (for Christmas) and it will show every day new photo with a quote. It connects to a very basic API endpoint that I wrote in PHP (I am no professional in PHP). Photos are stored on server and it all is organized inside MySQL database. User can access the photos and quotes from the past. Photos and qoutes are added via simple upload form.
+This is very basic and imperfect app for my mum (for Christmas) and it shows her every day new photo with a quote. It connects to a very basic API endpoint that I wrote in PHP (I am no master in PHP). Photos are stored on server and it all is organized inside MySQL database. User can access the photos and quotes from the past. Photos and qoutes are added via simple upload form. My mum loves this app! But I am always late with adding the pictures :-(
