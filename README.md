@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Roman Hruška - @roumenh
+- my CV: https://github.com/roumenh/roumenh/blob/main/cv_Roman_Hruska_03-2023_r.pdf 
 - 👀 I’m currently learning Kotlin and Android development
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 https://www.linkedin.com/in/iamromanhruska/
