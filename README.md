@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Roman Hruška - @roumenh
-- 👀 I’m currently learning Kotlin and Android development
+- 👀 I’m currently strenghtening my Kotlin and Android 
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 https://www.linkedin.com/in/iamromanhruska/
 
 # Hello everyone, welcome to my github!
-There are currently three projects that are worth your attention in case you are wondering what is my current level of Android/Kotlin.
-Meanwhile I am learning and learning and learning....
+There are not many updates as recently I do not have that much time for pet-projects, since I am full time working on Android stuff these days, unfortunatelly, I cannot share the code :)
+So here are some old(er) projects that I worked on in my rather junior stage :)
 
 ## Alihopa (adaptation of a Swedish word: altogether)
 Project in the beginnings. My main aim is to become fluent in Clean Architecture principles, MVVM and to learn a lot of new stuff whilst working on this project.
