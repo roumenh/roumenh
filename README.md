@@ -7,15 +7,11 @@
 There are not many updates as recently I do not have that much time for pet-projects, since I am full time working on Android stuff these days, unfortunatelly, I cannot share the code :)
 So here are some old(er) projects that I worked on in my rather junior stage :)
 
-## Weather Check 2000 - updates ongoing!
-https://github.com/roumenh/WeatherCheck2000
+## Dogs weather - (Psí počasí)
+https://github.com/roumenh/DogsWeather
 
-Currently in process of refactor. Jetpack Compose, Koin, and ... a widget on home screen! This is all in progress.. WIP!
-
-App where you can add a city (with its latitude and longitude) and then see what is the current weather (state, temperature, wind orientation and speed) and forecast (temperatures low and highg). There are still things to finetune in this project (single source of truth, some things are not really used correctly), but it is a small and usable app that I personally check every day on my phone. I am still planning on improving it. It uses Coil, Retrofit, Moshi and other libraries.
-
-Old screenshots
-![weathercheck small](https://user-images.githubusercontent.com/5468334/207570277-b79a9f8d-d87d-497a-9833-e3817965887f.jpg)
+This was a weather app project that transformed over time to a Birthday present for my mum. It works quite like any weather app, showing weather of places. But on top of it, for each kind of weather (rain, clear sky, snow...) there is a dedicated photo of my dog Robin. Each time you discover new kind of weather, the image is revealed as a card in gallery.
+![image](https://github.com/user-attachments/assets/af1d44bc-c143-4442-84f9-843d381385b3)
 
 ## Google Books Search
 https://github.com/roumenh/googleBooksSearch
